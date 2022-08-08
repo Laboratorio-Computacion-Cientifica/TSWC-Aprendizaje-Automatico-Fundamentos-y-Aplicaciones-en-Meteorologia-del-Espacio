@@ -1,1 +1,1 @@
-# Aprendizaje-Autom-tico-Fundamentos-y-Aplicaciones-en-Meteorolog-a-del-Espacio
+# TSWC/Aprendizaje-Automatico-Fundamentos-y-Aplicaciones-en-Meteorologia-del-Espacio
